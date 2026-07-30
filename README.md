@@ -8,8 +8,10 @@
 ```text
 Name:      Kreetan Sharma
 Username:  SAIZOSUYA
-Role:      Freelancer & Full-Stack Developer
+Role:      Freelancer & Full-Stack Developer, Digital Marketing.
 OS:        Windows / Linux
 Editor:    VS Code
 Languages: JavaScript, Python, TypeScript, HTML/CSS
-Skills:    Full-Stack Development, Web Applications, Cloud
+Skills:    Full-Stack Development, Web Applications, Cloud, Adobe Softwares(Premier Pro , Photoshop, Aftereffects) , CANVA
+
+HOPE YOU LIKE IT
