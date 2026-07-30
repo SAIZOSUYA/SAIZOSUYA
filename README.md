@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="" alt="Header Banner" width="100%" />
+  <img src="saizosuya_crt_banner_1785389991228.svg" alt="Header Banner" width="100%" />
 </p>
 
-<img align="right" src="./assets/8000-210_138676-7714.avif" width="240" alt="Profile Image" />
+<img align="right" src="image.svg" width="240" alt="Profile Image" />
 
 # 😎 I'M KRITAN!
 
