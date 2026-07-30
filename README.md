@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Header Banner" width="100%" />
 </p>
 
-<img align="right" src="./assets/owl_confetti.svg" width="300" alt="Confetti Owl" />
+<img align="right" src="./assets/8000-210_138676-7714.avif" width="300" alt="Profile Image" />
 
 # 😎 I'M KRITAN!
 
